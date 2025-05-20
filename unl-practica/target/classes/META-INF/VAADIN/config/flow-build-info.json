@@ -1,0 +1,19 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/maria/Escritorio/practicas/unl-practica",
+  "node.version": "v22.14.0",
+  "frontend.hotdeploy": true,
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/home/maria/Escritorio/practicas/unl-practica/src/main/frontend",
+  "connect.javaSourceFolder": "/home/maria/Escritorio/practicas/unl-practica/src/main/java",
+  "javaResourceFolder": "/home/maria/Escritorio/practicas/unl-practica/src/main/resources",
+  "connect.applicationProperties": "/home/maria/Escritorio/practicas/unl-practica/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/maria/Escritorio/practicas/unl-practica/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/maria/Escritorio/practicas/unl-practica/src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target",
+  "react.enable": true
+}
